@@ -10,6 +10,9 @@
 
 **🌐 [br-intelligence.vercel.app](https://br-intelligence.vercel.app)**
 
+[![Falar com o agente de IA no WhatsApp](https://img.shields.io/badge/💬_Falar_com_o_agente_de_IA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556193541717?text=Ol%C3%A1!%20Vim%20pelo%20seu%20GitHub%20e%20quero%20saber%20mais%20sobre%20os%20seus%20sistemas.)
+[![E-mail](https://img.shields.io/badge/✉️_bbrunno18@yahoo.com.br-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:bbrunno18@yahoo.com.br)
+
 </div>
 
 ## 🚀 O que eu construo
@@ -42,6 +45,8 @@ Atendo **empresas e clínicas** (estética e odontologia) em todo o Brasil.
 
 ## 🤝 Vamos conversar?
 
-Tem um processo manual que cansa ou um atendimento que perde cliente? Chame a gente e vamos transformar isso em sistema.
+Tem um processo manual que cansa ou um atendimento que perde cliente? Chame o agente no WhatsApp e vamos transformar isso em sistema.
 
-👉 **https://br-intelligence.vercel.app**
+- 💬 **WhatsApp (agente de IA):** [wa.me/556193541717](https://wa.me/556193541717?text=Ol%C3%A1!%20Vim%20pelo%20seu%20GitHub%20e%20quero%20saber%20mais%20sobre%20os%20seus%20sistemas.)
+- ✉️ **E-mail:** [bbrunno18@yahoo.com.br](mailto:bbrunno18@yahoo.com.br)
+- 🌐 **Site:** https://br-intelligence.vercel.app
